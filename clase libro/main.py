@@ -6,7 +6,7 @@ class Libro:
         self._isbn = isbn
         self._disponibilidad = disponibilidad
 
-    # Getters
+    # Getters class libro
     def get_id(self):
         return self._id
 
